@@ -1,0 +1,13 @@
+===============================================
+
+For logging in you can use
+
+Email: m.safaei81@hotmail.com
+Password: 123456
+
+You can create a new account if you want as well!
+
+================================================
+
+Due to the number of finals and projects, I wasn't able to finish the "Cart" functionality 
+to my project but everything before that works completely functional.
